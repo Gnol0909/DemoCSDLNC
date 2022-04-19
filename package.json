@@ -1,0 +1,25 @@
+{
+  "name": "democsdlnc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gnol0909/DemoCSDLNC.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gnol0909/DemoCSDLNC/issues"
+  },
+  "homepage": "https://github.com/Gnol0909/DemoCSDLNC#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "mongodb": "^4.5.0"
+  }
+}
